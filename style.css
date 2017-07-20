@@ -1,7 +1,5 @@
-/*body {
-  padding-top: 10px;
-}
-[class*="col-"], footer {
+
+/*[class*="col-"], footer {
   background-color: lightgreen;
   border: 2px solid black;          Case train
   border-radius: 6px;
@@ -31,7 +29,7 @@ h1{
 }
 
 img {
-	border-radius: 3em;
+	border-radius: 2em;
 }
 
 
@@ -69,4 +67,8 @@ a {
 
 a :hover {
 	color: white;
+}
+
+.icon-margin{
+	margin-right: 10px;
 }
