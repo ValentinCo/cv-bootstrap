@@ -1,0 +1,72 @@
+/*body {
+  padding-top: 10px;
+}
+[class*="col-"], footer {
+  background-color: lightgreen;
+  border: 2px solid black;          Case train
+  border-radius: 6px;
+  line-height: 40px;
+  text-align: center;
+}*/
+@font-face {
+
+	font-family: "coolvetica";
+	src : url("coolvetica rg.ttf");
+
+}
+
+@font-face {
+	font-family: "Rounded";
+	src : url("Rounded_Elegance.ttf");
+}
+
+body {
+	background: url("wall.jpg") ;
+	font-family: "Rounded";
+	font-size: 15px; 
+	color: white;
+}
+h1{
+	font-family: 'coolvetica', sans-serif;
+}
+
+img {
+	border-radius: 3em;
+}
+
+
+.nom-profil {
+	margin-top: 25px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+
+/*.border1 {
+	border:1px solid black;
+	padding: 10px;
+	border-radius: 25px;
+}*/
+
+.border-titre {
+	
+	font-family: 'coolvetica', sans-serif;
+	border-radius: 10px;
+	padding: 6px;
+	background: #0397c4;
+	color: white;
+}
+
+ul {
+	font-size: 17px;
+}
+
+a {
+
+	color: black;
+}
+
+a :hover {
+	color: white;
+}
