@@ -55,11 +55,11 @@ ul {
 
 a {
 
-	color: black;
+	color: white;
 }
 
 a :hover {
-	color: white;
+	color: #0397c4;
 }
 
 .icon-margin{
