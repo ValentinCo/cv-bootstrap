@@ -102,3 +102,7 @@ a {
 a :hover{
 	color: red;
 }
+
+i {
+	margin-right: 10px;
+}
