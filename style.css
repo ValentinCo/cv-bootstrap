@@ -7,7 +7,8 @@
 }*/
 
 body {
-	background-image:url(shattered.png);
+  background-image:url(shattered.png);
+  padding-top: 60px;
 }
 
 .container{
@@ -107,3 +108,4 @@ a :hover{
 i {
 	margin-right: 10px;
 }
+
