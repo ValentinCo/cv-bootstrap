@@ -27,12 +27,13 @@ border-radius: 15px;
   margin-right: 5px;
   margin-bottom: 5px;
   padding: 5px 5px 5px 25px;
-  background: #A75265;
+  background: #bc0d0d;
   position: relative;
   font-size: 1.2em;
+  padding: 10px;
 }
 
-.hobby:before{
+/* .hobby:before{
   content: "\f004";
   font-family: FontAwesome;
   font-style: normal;
@@ -40,7 +41,7 @@ border-radius: 15px;
   position: absolute;
   top: 6px;
   left: 7px;
-}
+} */
 
 .box{
   margin-bottom: 15px;
